@@ -1,6 +1,6 @@
 ## Run
 
-```
+```bash
 bash judge_spark_hang.sh date_file time_period
 ``` 
 
